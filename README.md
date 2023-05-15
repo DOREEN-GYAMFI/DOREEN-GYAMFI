@@ -1,16 +1,16 @@
-### Hi there 👋
+👋 Welcome to my GitHub profile!
 
-<!--
-**DOREEN-GYAMFI/DOREEN-GYAMFI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Skilled data scientist and analyst proficient in Python, R, Power BI, and SQL 📊
+    💡 Transforming raw data into valuable insights and innovative solutions
+    🔍 Uncovering patterns, trends, and correlations for informed decision-making
+    🛠 Expertise in data manipulation, exploratory analysis, visualization, and predictive modeling
+    🗣 Effective communication and storytelling to convey complex data to stakeholders
+    📈 Continuously staying updated with the latest advancements in data analytics
+    🚀 Passionate about collaborating on data-driven solutions
+    📚 Check out my diverse projects and resources on my GitHub
+    Let's embark on an exciting data-driven journey together!
 
-Here are some ideas to get you started:
+Feel free to connect with me and explore the vast potential of data!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Gmail: dgyafia1@gmail.com
+linkedin: https://www.linkedin.com/in/doreen-gyamfi-1236951a3/
