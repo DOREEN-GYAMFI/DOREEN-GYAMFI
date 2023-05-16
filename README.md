@@ -1,6 +1,6 @@
 👋 Welcome to my GitHub profile!
 
-I'm a Skilled data scientist and analyst proficient in Python, R, Power BI, and SQL 📊
+I'm a Skilled data scientist and analyst proficient in Python, Excel, Power BI, and SQL 📊
 
     💡 Transforming raw data into valuable insights and innovative solutions
     
